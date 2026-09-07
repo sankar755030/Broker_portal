@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "NFW_URL": "https://mobileidwebqanfw-phase2.azurewebsites.net",
+      "NFR_URL": "https://mobileidwebqanfr-phase2.azurewebsites.net",
+      "sankarUsername": "sankar",
+      "sankarPassword": "sankar",
+      "Searchhistoryhours": "22222222222",
+      "Similarityscore": "2222222222222",
+      "SearchhistoryhoursNegativecase": "+!@#$%^&*()ASDFGHJ",
+      "SimilarityscoreNegativecase": "Test_Value"
+    }
+
+
+  ]
+}
